@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif"
- alt="👋 Hi there! I'm (Imad(Eddine|nd ES)" title="👋  Hi there! I'm (Imad(Eddine|nd ES)"/>]
+[alt="👋 Hi there! I'm (Imad(Eddine|nd ES)" title="👋  Hi there! I'm (Imad(Eddine|nd ES)"/>]
 
 💻 About Me
 I'm a Junior Web Developer who is passionate about writing code, learn new technology and building projects to improve my skills .
 
-- 📫 How to reach me: [Email](imad.elissaouii@gmail.com) [Linkedin](https://www.linkedin.com/in/imad-eddine-el-issaoui-b181041b2/)
+📫 How to reach me: [Email](imad.elissaouii@gmail.com) [Linkedin](https://www.linkedin.com/in/imad-eddine-el-issaoui-b181041b2/)
 
--->
